@@ -1,119 +1,179 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T09:01:29.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="T7hZHd-6qnU5JixkBvE5" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T10:26:51.573Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="r4ffp2j-Y_Fy3BTsYQyr" version="22.0.8" type="github">
   <diagram name="Stránka-1" id="bEfvXbDcPR-JKaHOEIba">
     <mxGraphModel dx="1306" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GNfXP9WfzIm3SP3Rm8KG-19" value="" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="460" y="570" width="250" height="260" as="geometry" />
+          <mxGeometry x="457" y="420" width="250" height="260" as="geometry" />
         </mxCell>
         <mxCell id="D166HEBZ5dmzPHS5M7ii-1" value="SWDM" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#10739E;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="410" width="70" height="80" as="geometry" />
+          <mxGeometry x="117" y="260" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D166HEBZ5dmzPHS5M7ii-2" value="ARCH" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#F2931E;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="490" width="70" height="80" as="geometry" />
+          <mxGeometry x="117" y="340" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D166HEBZ5dmzPHS5M7ii-3" value="AN" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#AE4132;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="570" width="70" height="260" as="geometry" />
+          <mxGeometry x="117" y="420" width="70" height="270" as="geometry" />
         </mxCell>
         <mxCell id="D166HEBZ5dmzPHS5M7ii-4" value="DEV" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#23445D;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="850" width="70" height="80" as="geometry" />
+          <mxGeometry x="117" y="690" width="70" height="160" as="geometry" />
         </mxCell>
         <mxCell id="D166HEBZ5dmzPHS5M7ii-5" value="TEST" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#12AAB5;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="930" width="70" height="80" as="geometry" />
+          <mxGeometry x="117" y="850" width="70" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="D166HEBZ5dmzPHS5M7ii-6" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#10739E&quot;&gt;&lt;b&gt;Label&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="202.5" y="410" width="507.5" height="70" as="geometry" />
+        <mxCell id="D166HEBZ5dmzPHS5M7ii-6" value="" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="199.5" y="260" width="507.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="D166HEBZ5dmzPHS5M7ii-7" value="" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="202.5" y="490" width="250" height="70" as="geometry" />
+          <mxGeometry x="199.5" y="340" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="D166HEBZ5dmzPHS5M7ii-8" value="" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="202.5" y="570" width="250" height="260" as="geometry" />
+          <mxGeometry x="199.5" y="420" width="250" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="D166HEBZ5dmzPHS5M7ii-9" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#23445D&quot;&gt;&lt;b&gt;Label&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="220" y="850" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="D166HEBZ5dmzPHS5M7ii-10" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#12AAB5&quot;&gt;&lt;b&gt;Label&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="220" y="930" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="D166HEBZ5dmzPHS5M7ii-11" value="IP Kompetence pode technologií" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="260" y="240" width="350" height="30" as="geometry" />
+        <mxCell id="D166HEBZ5dmzPHS5M7ii-11" value="IP Kompetence podle technologií" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="257" y="90" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D166HEBZ5dmzPHS5M7ii-12" value="OPS" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#f0ca0a;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="1010" width="70" height="80" as="geometry" />
+          <mxGeometry x="117" y="970" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D166HEBZ5dmzPHS5M7ii-14" value="DICC &amp;amp; Finance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="430" y="585" width="100" height="30" as="geometry" />
+          <mxGeometry x="427" y="435" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pGMFWMbSkLafYKqSWGrz-1" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#10739E&quot;&gt;&lt;b&gt;Online&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;&quot; size=&quot;1&quot;&gt;(sync. Req-Res)&lt;br&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;API, IMS, WMB&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="202.5" y="310" width="250" height="70" as="geometry" />
+        <mxCell id="pGMFWMbSkLafYKqSWGrz-1" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#10739E&quot;&gt;&lt;b&gt;Online&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;&quot; size=&quot;1&quot;&gt;(sync. Req-Res)&lt;br&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;API, IMS, WMB&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;strokeColor=none;fillColor=#CCCCCC;align=center;arcSize=12;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="199.5" y="160" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pGMFWMbSkLafYKqSWGrz-2" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#10739e&quot;&gt;&lt;b&gt;Batch/Stream&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; size=&quot;1&quot;&gt;(aSync, OneWay)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;b&gt;JLA, KFK&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="460" y="310" width="250" height="70" as="geometry" />
+        <mxCell id="pGMFWMbSkLafYKqSWGrz-2" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#10739e&quot;&gt;&lt;b&gt;Batch/Stream&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; size=&quot;1&quot;&gt;(aSync, OneWay)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;b&gt;JLA, KFK&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#808080;align=center;arcSize=12;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="457" y="160" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pGMFWMbSkLafYKqSWGrz-3" value="Martin Šetek" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#ae4132;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="290" y="585" width="15" height="39.7" as="geometry" />
+          <mxGeometry x="277" y="435" width="15" height="39.7" as="geometry" />
         </mxCell>
         <mxCell id="pGMFWMbSkLafYKqSWGrz-4" value="" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="220" y="1015" width="200" height="70" as="geometry" />
+          <mxGeometry x="199.5" y="970" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pGMFWMbSkLafYKqSWGrz-5" value="tif-admins" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="312.5" y="1020" width="15" height="39.7" as="geometry" />
+          <mxGeometry x="317" y="980" width="15" height="39.7" as="geometry" />
         </mxCell>
         <mxCell id="pGMFWMbSkLafYKqSWGrz-6" value="" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="460" y="1015" width="200" height="70" as="geometry" />
+          <mxGeometry x="457" y="970" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pGMFWMbSkLafYKqSWGrz-7" value="jla-admins" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="560" y="1020" width="15" height="39.7" as="geometry" />
+          <mxGeometry x="574.5" y="980" width="15" height="39.7" as="geometry" />
         </mxCell>
         <mxCell id="pGMFWMbSkLafYKqSWGrz-8" value="Michal Hašek" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#f2921e;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="311" y="495" width="15" height="39.7" as="geometry" />
+          <mxGeometry x="308" y="345" width="15" height="39.7" as="geometry" />
         </mxCell>
         <mxCell id="GNfXP9WfzIm3SP3Rm8KG-1" value="Corp. Product &amp;amp; Risk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="390" y="660.3000000000001" width="100" height="30" as="geometry" />
+          <mxGeometry x="387" y="510.30000000000007" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GNfXP9WfzIm3SP3Rm8KG-2" value="Investment Products" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="390" y="624.7" width="100" height="30" as="geometry" />
+          <mxGeometry x="387" y="474.70000000000005" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GNfXP9WfzIm3SP3Rm8KG-3" value="Retail Product" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="410" y="700" width="100" height="30" as="geometry" />
+          <mxGeometry x="407" y="550" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GNfXP9WfzIm3SP3Rm8KG-4" value="Operations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="410" y="740" width="100" height="30" as="geometry" />
+          <mxGeometry x="407" y="590" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GNfXP9WfzIm3SP3Rm8KG-5" value="Digital" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="380" y="779.7" width="100" height="30" as="geometry" />
+          <mxGeometry x="377" y="629.7" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GNfXP9WfzIm3SP3Rm8KG-6" value="Štěpán &lt;br&gt;Herčík" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#FFD966;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="245" y="660.3" width="15" height="39.7" as="geometry" />
+          <mxGeometry x="237" y="510.29999999999995" width="15" height="39.7" as="geometry" />
         </mxCell>
         <mxCell id="GNfXP9WfzIm3SP3Rm8KG-7" value="Jan Hruda" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#9AC7BF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="320" y="660.3" width="15" height="39.7" as="geometry" />
+          <mxGeometry x="317" y="510.29999999999995" width="15" height="39.7" as="geometry" />
         </mxCell>
         <mxCell id="GNfXP9WfzIm3SP3Rm8KG-9" value="Petr&lt;br&gt;Maixner" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#9AC7BF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="245" y="740" width="15" height="39.7" as="geometry" />
+          <mxGeometry x="237" y="590" width="15" height="39.7" as="geometry" />
         </mxCell>
         <mxCell id="GNfXP9WfzIm3SP3Rm8KG-10" value="Pavel &lt;br&gt;Zaumuller" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#9AC7BF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="320" y="740" width="15" height="39.7" as="geometry" />
+          <mxGeometry x="317" y="590" width="15" height="39.7" as="geometry" />
         </mxCell>
         <mxCell id="GNfXP9WfzIm3SP3Rm8KG-20" value="Jaroslav Král" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#ae4132;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="595" y="585" width="15" height="39.7" as="geometry" />
+          <mxGeometry x="592" y="435" width="15" height="39.7" as="geometry" />
         </mxCell>
         <mxCell id="GNfXP9WfzIm3SP3Rm8KG-21" value="Petra &lt;br&gt;Strašáková" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#9AC7BF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="560" y="660.3" width="15" height="39.7" as="geometry" />
+          <mxGeometry x="557" y="510.29999999999995" width="15" height="39.7" as="geometry" />
         </mxCell>
         <mxCell id="GNfXP9WfzIm3SP3Rm8KG-22" value="Kristýna &lt;br&gt;Tučková" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#FFD966;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="640" y="660.3" width="15" height="39.7" as="geometry" />
+          <mxGeometry x="637" y="510.29999999999995" width="15" height="39.7" as="geometry" />
         </mxCell>
         <mxCell id="GNfXP9WfzIm3SP3Rm8KG-23" value="Vojtěch Hlava" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#FFD966;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="595" y="740" width="15" height="39.7" as="geometry" />
+          <mxGeometry x="592" y="590" width="15" height="39.7" as="geometry" />
         </mxCell>
         <mxCell id="GNfXP9WfzIm3SP3Rm8KG-30" value="" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="460" y="490" width="250" height="70" as="geometry" />
+          <mxGeometry x="457" y="340" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GNfXP9WfzIm3SP3Rm8KG-31" value="Ladislav Teplý" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#f2921e;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="580" y="495" width="15" height="39.7" as="geometry" />
+          <mxGeometry x="577" y="345" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-32" value="Petr Šamša" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="347" y="270" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-33" value="Petr Klikar" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#ae4132;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="445.75" y="270" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-34" value="Kryštof Malinek (trainee)" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#808080;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="577" y="270" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-37" value="" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="199.5" y="690" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-38" value="" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="199.5" y="850" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-39" value="Miroslav Hájek" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#ae4132;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="237" y="700" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-40" value="Martin Šetek" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#ae4132;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="667" y="710" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-41" value="" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="460.75" y="690" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-43" value="Martin &lt;br&gt;Pavelka" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#9AC7BF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="308" y="700" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-44" value="Matěj &lt;br&gt;Koudelka" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#9AC7BF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="387" y="700" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-45" value="Petr Řehák" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#9AC7BF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="308" y="780" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-46" value="Vít Marčan" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#9AC7BF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="237" y="780" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-47" value="Petr Paterna" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#9AC7BF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="387" y="780" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-50" value="Ondřej Kallasch" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#ae4132;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="578.25" y="700" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-51" value="Jaroslav Matoušek" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#9AC7BF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="517" y="770" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-52" value="Martin Zahradil" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#9AC7BF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="637" y="770" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-53" value="" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="460.75" y="850" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-54" value="Jakub Ostrihoň" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#FFD966;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="237" y="885.15" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-55" value="Petr Řehák" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#9AC7BF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="323" y="885.15" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-57" value="David Froňěk" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#FFD966;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="637" y="885.15" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-58" value="Jiří Pakosta" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#ae4132;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="445.75" y="850" width="15" height="39.7" as="geometry" />
+        </mxCell>
+        <mxCell id="GNfXP9WfzIm3SP3Rm8KG-59" value="Rudolf Konvalinka &lt;br&gt;(DevOps Eng.)" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#FFD966;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="760" y="819.6999999999999" width="15" height="39.7" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
