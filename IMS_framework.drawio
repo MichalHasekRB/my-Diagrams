@@ -1,35 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T10:18:51.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="gdqpJjh1LBhOwwaz4BJP" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T15:15:47.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="VomdINxwO_poAyjLFVvX" version="22.1.3" type="github">
   <diagram name="Stránka-1" id="S0OwSs2gKIAf6juRrMQs">
-    <mxGraphModel dx="1230" dy="1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hxlqqTs2mgKyODCioZAR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="50" width="330" height="720" as="geometry" />
+        <mxCell id="hxlqqTs2mgKyODCioZAR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="110" y="50" width="560" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="hxlqqTs2mgKyODCioZAR-2" value="tif-ims" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="hxlqqTs2mgKyODCioZAR-2" value="tif-ims" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hxlqqTs2mgKyODCioZAR-3" value="http-ims" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="hxlqqTs2mgKyODCioZAR-3" value="http-ims" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hxlqqTs2mgKyODCioZAR-4" value="rest-ims" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="hxlqqTs2mgKyODCioZAR-4" value="rest-ims" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hxlqqTs2mgKyODCioZAR-5" value="tif-*" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="hxlqqTs2mgKyODCioZAR-5" value="tif-*" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hxlqqTs2mgKyODCioZAR-6" value="soap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="hxlqqTs2mgKyODCioZAR-6" value="soap" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hxlqqTs2mgKyODCioZAR-7" value="rest-(ws)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="hxlqqTs2mgKyODCioZAR-7" value="rest-(ws)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hxlqqTs2mgKyODCioZAR-8" value="MQ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="490" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="hxlqqTs2mgKyODCioZAR-8" value="MQ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="610" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hxlqqTs2mgKyODCioZAR-9" value="KFK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="hxlqqTs2mgKyODCioZAR-9" value="KFK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mdh3p-C1TQkfkpC6S6tF-1" value="&lt;div&gt;[INFO] Building dms-document-v2 1.0.0-SNAPSHOT&lt;/div&gt;&lt;div&gt;[INFO] ------------------------------------------------------------------------&lt;/div&gt;&lt;div&gt;[INFO] --- maven-dependency-plugin:3.1.2:tree (default-cli) @ dms-document-v2 ---&lt;/div&gt;&lt;div&gt;[INFO] cz.rb.integration.msvc:dms-document-v2:jar:1.0.0-SNAPSHOT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[INFO] +- cz.rb.integration.msvc:library-tif-common-3:jar:3.74.0:compile&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; +- cz.rb.integration.msvc:library-rb-framework-3:jar:2.49.0:compile&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; |&amp;nbsp; +- cz.rb.integration.msvc:library-rb-codebook-3:jar:2.49.0:compile&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; \- TIF:TIF_MicroservicesBase:jar:1.0.1:compile&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; &amp;nbsp; &amp;nbsp;+- TIF:camel-tif:jar:1.1.1:compile&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; +- TIF:TIFCentralLoggingUtil:jar:1.3.1:compile&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; +- TIF:TIF_Utils:jar:1.46.2:compile&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; +- TIF:TIF_ApiDef:jar:2.6.0:compile&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; +- TIF:TIF_ServiceDef:jar:1.2.0:compile&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; +- TIF.TIFSecurityTools:TIFSecurityProvider:jar:1.7.0:compile&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; +- TIF.TIFSecurityTools:TIFSecurityProviderAES:jar:1.13.0:compile&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; +- TIF.TIFSecurityTools:TIFSecurityUtils:jar:1.20.0:compile&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; +- TIF:TIFRedis:jar:0.4.1:compile&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; +- TIF.TIFMonitor:TIFMonitorRegistrator:jar:2.3.0:compile&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; &amp;nbsp; &amp;nbsp;|&amp;nbsp; +- org.redisson:redisson:jar:3.16.8:compile&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; &amp;nbsp; &amp;nbsp;\- org.apache.camel:camel-undertow:jar:3.7.4:compile&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[INFO] +- cz.rb.integration.msvc:library-tif-common-test-3:jar:3.74.0:test&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; \- cz.rb.integration.msvc:library-rb-framework-test-3:jar:2.49.0:test&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; &amp;nbsp; &amp;nbsp;+- org.apache.camel:camel-test:jar:3.7.4:test&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; &amp;nbsp; &amp;nbsp;+- org.powermock:powermock-module-junit4:jar:2.0.9:test&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; &amp;nbsp; &amp;nbsp;+- org.powermock:powermock-api-mockito2:jar:2.0.9:test&lt;/div&gt;&lt;div&gt;[INFO] |&amp;nbsp; &amp;nbsp; &amp;nbsp;+- junit:junit:jar:4.13.1:test&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="179" y="175" width="470" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="mdh3p-C1TQkfkpC6S6tF-2" value="&lt;h1&gt;MSVC Framework&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="260" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
