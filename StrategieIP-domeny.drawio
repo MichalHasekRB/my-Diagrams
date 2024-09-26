@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.7.16">
   <diagram name="Stránka-1" id="IJSsZS_YuEGMHdV8JXdg">
-    <mxGraphModel>
+    <mxGraphModel dx="1264" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OI-sxOpWTPTX0RnwA3bI-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="360" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-sxOpWTPTX0RnwA3bI-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/api_security.svg;" vertex="1" parent="1">
+          <mxGeometry x="410" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-sxOpWTPTX0RnwA3bI-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/index.svg;" vertex="1" parent="1">
+          <mxGeometry x="410" y="325" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-sxOpWTPTX0RnwA3bI-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/vpc/LoadBalancerPool.svg;" vertex="1" parent="1">
+          <mxGeometry x="410" y="410" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-sxOpWTPTX0RnwA3bI-9" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/device_registry.svg;" vertex="1" parent="1">
+          <mxGeometry x="410" y="500" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-sxOpWTPTX0RnwA3bI-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users_two;fillColor=#DA4026;" vertex="1" parent="1">
+          <mxGeometry x="500" y="248.5" width="57" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-sxOpWTPTX0RnwA3bI-16" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users_two;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="510" y="418.5" width="57" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-sxOpWTPTX0RnwA3bI-17" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#CCCBCB;" vertex="1" parent="1">
+          <mxGeometry x="620" y="233" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-sxOpWTPTX0RnwA3bI-18" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users_two;fillColor=#2072B8;" vertex="1" parent="1">
+          <mxGeometry x="500" y="500" width="57" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-sxOpWTPTX0RnwA3bI-19" value="Dev/ops" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#2072B8;" vertex="1" parent="1">
+          <mxGeometry x="430" y="640" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OI-sxOpWTPTX0RnwA3bI-20" value="AN/SWDM" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;" vertex="1" parent="1">
+          <mxGeometry x="540" y="630" width="46" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
